@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Archer Imagine'
 SITENAME = u'Tutorials'
-SITEURL = ''
+SITEURL = 'http://localhost/myGithubCode/WebSiteFile/Source_archerimagine.github.io/output/'
 
 PATH = 'content'
 
@@ -19,6 +19,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+LOAD_CONTENT_CACHE = False 
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
@@ -26,8 +28,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'https://twitter.com/archerImagine'),
+          ('github', 'https://github.com/archerImagine'),)
 
 DEFAULT_PAGINATION = 10
 
