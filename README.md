@@ -11,3 +11,4 @@
 * Check any thing which can be integrated with static blog. Some research on this area.
 * The blog should be mobile Friendly.
 * It should have some email subscription and rss feeds.
+* Integrate some comments system on the static blog.
