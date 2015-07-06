@@ -12,3 +12,4 @@
 * The blog should be mobile Friendly.
 * It should have some email subscription and rss feeds.
 * Integrate some comments system on the static blog.
+* Create a CI system, so that that the final JS, CSS are also minified.
