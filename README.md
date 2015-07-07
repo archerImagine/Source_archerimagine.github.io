@@ -13,3 +13,4 @@
 * It should have some email subscription and rss feeds.
 * Integrate some comments system on the static blog.
 * Create a CI system, so that that the final JS, CSS are also minified.
+* Add the plugins as a submodules, as mentioned in this blog. [SubModules.](http://www.notionsandnotes.org/tech/web-development/pelican-static-blog-setup.html)
