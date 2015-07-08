@@ -35,5 +35,7 @@ DEFAULT_PAGINATION = 10
 
 OUTPUT_RETENTION = [".git"]
 
+THEME = "themes/voidy-bootstrap"
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
