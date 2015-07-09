@@ -1,5 +1,5 @@
 Title: myBlogDevelopment 
-date: 
+date: 07/08/2015
 tags: 
 category: Pelican 
 slug: myblogdevelopment 

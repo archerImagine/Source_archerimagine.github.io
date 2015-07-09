@@ -1,5 +1,5 @@
 Title: About Me
-date: 03/07/2015
+date: 07/03/2015
 tags: About, python, Machine Learning, Algorithms, Design Patterns
 slug: About-Me 
 
