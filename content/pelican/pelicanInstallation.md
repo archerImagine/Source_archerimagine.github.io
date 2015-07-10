@@ -29,4 +29,4 @@ We can also use [virtualenv](http://www.virtualenv.org/) to install pelican.
 Some links which will help you in this regards.
 
 * [Pelican Docs](http://docs.getpelican.com/en/latest/install.html)
-* [Naufiulis | Making a Static Blog ](http://nafiulis.me/making-a-static-blog-with-pelican.html)
+* [Nafiulis | Making a Static Blog ](http://nafiulis.me/making-a-static-blog-with-pelican.html)
