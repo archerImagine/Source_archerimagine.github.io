@@ -59,3 +59,7 @@ target/
 
 *sublime-*
 output/
+themes/
+*.pid
+
+*.pid
